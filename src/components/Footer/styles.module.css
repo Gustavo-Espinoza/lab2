@@ -1,0 +1,25 @@
+.footer {
+    display:flex;
+    flex-direction: row;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #dadada;
+}
+.columnas {
+    padding-left: 28px;
+    padding-right: 250px;
+}
+.logonext {
+    width: 73px;
+    margin-right: 240px;
+    opacity: 20;
+}
+.logovercel {
+    width: 73px;
+    margin-right: 250px;
+}
+.seminario {
+    margin-left: 10px;
+    width: 100px;
+}
