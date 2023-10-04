@@ -1,17 +1,16 @@
 .footer {
     display:flex;
     flex-direction: row;
-    
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #dadada;
 }
 .columnas {
     padding-left: 28px;
-    padding-right: 250px;
+    padding-right: 150px;
 }
 .logonext {
-    width: 73px;
+    width: 100px;
     margin-right: 240px;
     opacity: 20;
 }
@@ -20,6 +19,6 @@
     margin-right: 250px;
 }
 .seminario {
-    margin-left: 10px;
+    margin-right: 10px;
     width: 100px;
 }
